@@ -21,7 +21,7 @@
 	int
 main ( int argc, char *argv[] )
 {
-	printf("Hello, WorldMaster!!!!!!\n");
+	printf("Hello, WorldMasterBlaster!!!!!!\n");
 
 	return 1;
 }				/* ----------  end of function main  ---------- */
