@@ -286,5 +286,5 @@ main ( int argc, char *argv[] )
 //    sum_two_val();
 //    anual_sal();
 //    add_read();
-    return 1;;
+    return 1;
 }				/* ----------  end of function main  ---------- */
